@@ -64,7 +64,7 @@ data_sets.push(d2)
 
 // menu3 =============================================================
 let d3 = new DataSet("회원가입구현")//메인타이틀
-d2.set_content("회원가입구현, 회원로그인,회원리스트, 리스트 출력결과")
+d3.set_content("회원가입구현, 회원로그인,회원리스트, 리스트 출력결과")
 d3.set_img(0,{imgtitle:"회원가입화면",imgurl:"https://drive.google.com/file/d/1IcEFg6UCqQFSnmdmbp9ZB8RgbaQUu4M8/view?usp=drive_link",imglog:"회원가입을 하기 위한 회원정보입력",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/resources/static/signup.html"})//서브타이틀
 d3.set_img(0,{imgtitle:"회원가입코드",imgurl:"https://drive.google.com/file/d/1ae0H4xOrLhkjtsUHZDR0iVS9d05yJaKK/view?usp=drive_link",imglog:"회원가입 코드",sourceurl:"https://docs.google.com/document/d/1I2QVcbcgC0IsZF6x76i5fi2SuyCDQideGVI7aak2uz0/edit?usp=drive_link"})
 d3.set_img(0,{imgtitle:"회원가입 제약조건",imgurl:"https://drive.google.com/file/d/10n3rFkJxwrXO5ly0-hEOwXA_hhU2Mqrl/view?usp=drive_link",imglog:"회원가입을 위한 제약조건",sourceurl:"https://docs.google.com/document/d/1I2QVcbcgC0IsZF6x76i5fi2SuyCDQideGVI7aak2uz0/edit?usp=drive_link"})
@@ -85,8 +85,9 @@ data_sets.push(d3)
 let d4 = new DataSet("배치프로그램구현")//메인타이틀
 
 d4.set_content("배치스케줄구현")//서브타이틀
-
+d4.set_img(0,{imgtitle:"배치스케줄구현",imgurl:"https://drive.google.com/file/d/1WDLolshmNat6H03lHND4Pdh8Ia4boj7v/view?usp=drive_link",imglog:"배치스케줄 실행 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/resources/static/signup.html"})
+d4.set_img(0,{imgtitle:"배치스케줄구현",imgurl:"https://drive.google.com/file/d/185FC6_RCbTR7Ne4oulbE28GFFmOGN70g/view?usp=drive_link",imglog:"배치스케줄 실행 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/job/BatchSchedule.java"})
 d4.set_content("배치프로그램테스트 구현")
 
-d3.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
+d4.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
 data_sets.push(d4)
