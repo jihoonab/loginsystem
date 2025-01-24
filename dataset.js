@@ -83,11 +83,8 @@ data_sets.push(d3)
 
 // menu4 =============================================================
 let d4 = new DataSet("배치프로그램구현")//메인타이틀
-
 d4.set_content("배치스케줄구현")//서브타이틀
 d4.set_img(0,{imgtitle:"배치스케줄구현",imgurl:"https://drive.google.com/file/d/1WDLolshmNat6H03lHND4Pdh8Ia4boj7v/view?usp=drive_link",imglog:"배치스케줄 실행 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/resources/static/signup.html"})
 d4.set_img(0,{imgtitle:"배치스케줄구현",imgurl:"https://drive.google.com/file/d/185FC6_RCbTR7Ne4oulbE28GFFmOGN70g/view?usp=drive_link",imglog:"배치스케줄 실행 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/job/BatchSchedule.java"})
-d4.set_content("배치프로그램테스트 구현")
-
 d4.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
 data_sets.push(d4)
