@@ -49,10 +49,18 @@ data_sets.push(d1)
 // menu2 =============================================================
 let d2 = new DataSet("공통모듈구현")//메인타이틀
 
-d2.set_content("공통모듈구현을 작성합니다.")//서브 타이틀
-d2.set_content("테스트케이스를 작성합니다.")
-d2.set_content("단위테스트를 작성합니다.")
+d2.set_content(0,{imgtitle:"공통모듈구현",imgurl:"https://drive.google.com/file/d/1HKmqdt88GHiAhLsceNsJ8fX4p-QKsYVo/view?usp=drive_link",imglog:"공통모듈구현으로 로그인UI 연동 및 로그아웃 UI연동 구현",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/resources/static/common.js"})//서브 타이틀
+d2.set_content(0,{imgtitle:"공통모듈구현 작동 페이지",imgurl:"https://drive.google.com/file/d/1-A9zAVFdYbgGgcNQ5IhJjb5bu2bDBqkW/view?usp=drive_link",imglog:"공통모듈구현 쟉둉 페이지 결과",sourceurl:""})
+d2.set_content(0,{imgtitle:"공통모듈구현 로그인 화면",imgurl:"https://drive.google.com/file/d/1R9CbpvCjT-Z4O85doOLP-IF5P72kCLSE/view?usp=drive_link",imglog:"공통모듈구현으로 로그인 시 출력되는 결과",sourceurl:""})
+d2.set_content(0,{imgtitle:"공통모듈구현 소스코드",imgurl:"https://drive.google.com/file/d/1AqLqry307aDGnY0ZHfyVjI5_lY6LabJ6/view?usp=drive_link",imglog:"공통모듈구현 소스코드",sourceurl:""})
 
+d2.set_content(1,"공통모듈구현을 작성합니다.")//서브 타이틀
+d2.set_content(1,"테스트케이스를 작성합니다.")
+d2.set_content(1,"단위테스트를 작성합니다.")
+
+d2.set_content(2,"공통모듈구현을 작성합니다.")//서브 타이틀
+d2.set_content(2,"테스트케이스를 작성합니다.")
+d2.set_content(2,"단위테스트를 작성합니다.")
 d2.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
 data_sets.push(d2)
 
