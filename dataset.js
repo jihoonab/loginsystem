@@ -70,11 +70,14 @@ d3.set_img(0,{imgtitle:"회원가입코드",imgurl:"https://drive.google.com/fil
 d3.set_img(0,{imgtitle:"회원가입 제약조건",imgurl:"https://drive.google.com/file/d/10n3rFkJxwrXO5ly0-hEOwXA_hhU2Mqrl/view?usp=drive_link",imglog:"회원가입을 위한 제약조건",sourceurl:"https://docs.google.com/document/d/1I2QVcbcgC0IsZF6x76i5fi2SuyCDQideGVI7aak2uz0/edit?usp=drive_link"})
 d3.set_img(0,{imgtitle:"회원가입성공 화면",imgurl:"https://drive.google.com/file/d/1lWUg0VjMkS5CNqxHQEBtoa8cTNuzJl9-/view?usp=drive_link",imglog:"회원가입 성공화면",sourceurl:""})
 
-d3.set_img("회원로그인구현")
+d3.set_img(1,{imgtitle:"회원로그인 구현",imgurl:"https://drive.google.com/file/d/1Wm9i_aP7FSMaKiZJdGBigDUGWXT0Sz0K/view?usp=drive_link",imglog:"회원로그인 결과",sourceurl:"https://docs.google.com/document/d/1gXDMr1TNCXfewAxkMJ6Rr94EBqgHl9hIMVNEczc5vi4/edit?usp=drive_link"})
+d3.set_img(1,{imgtitle:"회원로그인 DB접근",imgurl:"https://drive.google.com/file/d/1tOPg7nguOPgu1q_mU3Lth6NCKxJktcIW/view?usp=drive_link",imglog:"회원로그인 회원 DB 접근 확인",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})
+d3.set_img(1,{imgtitle:"회원로그인 세션 인가",imgurl:"https://drive.google.com/file/d/1V90mt67-KoOOstJvGmUIOsZ1C87GG02e/view?usp=drive_link",imglog:"회원로그이 세션 인가",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})
 
-d3.set_img("회원리스트연동")
+d3.set_img(1,{imgtitle:"회원로그아웃 구현",imgurl:"https://drive.google.com/file/d/12HUZYqq7kIxOtgdHdCAyRwvz6HyQ5vJ6/view?usp=drive_link",imglog:"회원로그아웃 결과",sourceurl:"https://docs.google.com/document/d/135SXENHAnT-JDPIV6GT75hmTomqwvlLR_VOh2QcLgNU/edit?usp=drive_link"})
 
-d3.set_img("회원리스트출력구현")
+d3.set_img(2,{imgtitle:"회원로스트 출력 ",imgurl:"https://drive.google.com/file/d/1ZZXVpD_lUz3X0ICzSf36LebHnEqAe_9t/view?usp=drive_link",imglog:"회원리스트 출력 결과",sourceurl:"https://docs.google.com/document/d/13LttorG997Fpqxqs6_axsvBYtiwFsECHvpQ2d8AzZCQ/edit?usp=drive_link"})
+d3.set_img(2,{imgtitle:"회원로스트 요구 메세지",imgurl:"https://drive.google.com/file/d/1T2RWJ8byisXmndciXdpy0PEb9xCnyKXt/view?usp=drive_link",imglog:"회원리스트 요구메세지",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})
 d3.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
 data_sets.push(d3)
 
