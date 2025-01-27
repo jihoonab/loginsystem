@@ -101,6 +101,8 @@ data_sets.push(d3)
 let d4 = new DataSet("배치프로그램구현")//메인타이틀
 d4.set_content("배치스케줄구현")//서브타이틀
 d4.set_img(0,{imgtitle:"배치스케줄구현",imgurl:"https://drive.google.com/file/d/1WDLolshmNat6H03lHND4Pdh8Ia4boj7v/view?usp=drive_link",imglog:"배치스케줄 실행 코드",sourceurl:"https://docs.google.com/document/d/1d1JqIsBTi1cYQ7jbMtxohihC-nw1jelcJ2Mrw-j46gY/edit?usp=drive_link"})
-d4.set_img(0,{imgtitle:"배치스케줄구현 확인",imgurl:"https://drive.google.com/file/d/185FC6_RCbTR7Ne4oulbE28GFFmOGN70g/view?usp=drive_link",imglog:"배치스케줄 실행 결과",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/job/BatchSchedule.java"})
+d4.set_img(0,{imgtitle:"배치스케줄구현 코드",imgurl:"https://drive.google.com/file/d/158CdpgqKBe7cjHx4wp_GAJbDU4jIvcJA/view?usp=drive_link",imglog:"배치스케줄 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/job/BatchConfiguration.java"})
+d4.set_img(0,{imgtitle:"배치스케줄구현 코드",imgurl:"https://drive.google.com/file/d/1F78ZJOkdUxSfIiVKxVLc0cXyVwDyQ5qf/view?usp=drive_link",imglog:"배치스케줄 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/job/BatchSchedule.java"})
+d4.set_img(0,{imgtitle:"배치스케줄구현 확인",imgurl:"https://drive.google.com/file/d/185FC6_RCbTR7Ne4oulbE28GFFmOGN70g/view?usp=drive_link",imglog:"배치스케줄 실행 결과",sourceurl:""})
 d4.set_fill("배치스케줄 구성 및 테스트 ")//사용자 에필로그
 data_sets.push(d4)
