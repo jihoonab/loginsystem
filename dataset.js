@@ -53,8 +53,16 @@ d2.set_img(0,{imgtitle:"공통모듈구현",imgurl:"https://drive.google.com/fil
 d2.set_img(0,{imgtitle:"공통모듈구현 작동 페이지",imgurl:"https://drive.google.com/file/d/1-A9zAVFdYbgGgcNQ5IhJjb5bu2bDBqkW/view?usp=drive_link",imglog:"공통모듈구현 쟉둉 페이지 결과",sourceurl:""})
 d2.set_img(0,{imgtitle:"공통모듈구현 로그인 화면",imgurl:"https://drive.google.com/file/d/1R9CbpvCjT-Z4O85doOLP-IF5P72kCLSE/view?usp=drive_link",imglog:"공통모듈구현으로 로그인 시 출력되는 결과",sourceurl:""})
 d2.set_img(0,{imgtitle:"공통모듈구현 소스코드",imgurl:"https://drive.google.com/file/d/1AqLqry307aDGnY0ZHfyVjI5_lY6LabJ6/view?usp=drive_link",imglog:"공통모듈구현 소스코드",sourceurl:""})
+
 d2.set_content("공통모듈구현 작동페이지, 로그인화면, 소스코드 ")
-d2.set_img(1,{imgtitle:"테스트케이스",imgurl:"https://drive.google.com/file/d/1s1Qt07JyP-tytNNwhA-qPHLn7y40fm4X/view?usp=drive_link",imglog:"테스트 단계, 경계 입력값, 예상 출력값, 성공/실패 여부",sourceurl:"https://docs.google.com/document/d/1z-mgVYYfSK3pjqz4jIY1Ihz3K1e_mtxYplEnszlPq6s/edit?usp=drive_link"})//서브 타이틀
+d2.set_img(1,{imgtitle:"테스트케이스",imgurl:"https://drive.google.com/file/d/1s1Qt07JyP-tytNNwhA-qPHLn7y40fm4X/view?usp=drive_link",imglog:"테스트 단계, 경계 입력값, 예상 출력값, 성공/실패 여부",sourceurl:"https://docs.google.com/document/d/1z-mgVYYfSK3pjqz4jIY1Ihz3K1e_mtxYplEnszlPq6s/edit?usp=drive_link"})// //서브 타이틀
+d2.set_img(1,{imgtitle:"테스트케이스 아이디 점검",imgurl:"https://drive.google.com/file/d/1CqtNO2l4-Dafv-T7ELQgvpqTmwsw4jOE/view?usp=drive_link",imglog:"테스트 단계: 아이디 3자리수 입력시 실패 ",sourceurl:""})
+d2.set_img(1,{imgtitle:"테스트케이스 비밀번호 점검",imgurl:"https://drive.google.com/file/d/1uCWMx-uw_yxNTgDsUhIBRZ-BWJryKIB0/view?usp=drive_link",imglog:"테스트 단계: 비밀번호 2자리수 입력시 실패",sourceurl:""})
+d2.set_img(1,{imgtitle:"테스트케이스 회원가입 성공",imgurl:"https://drive.google.com/file/d/1cgHmHFhyt-OmyBLYW0z6PkEaUK5KOsTK/view?usp=drive_link",imglog:"테스트 단계: ID 4글자 이상, PW 6글자 이상 입력시 성공",sourceurl:""})
+d2.set_img(1,{imgtitle:"테스트케이스 로그인 점검",imgurl:"https://drive.google.com/file/d/1BBqjL-M3yj8fjo0euDrq9Hj_CdA_jxdc/view?usp=drive_link",imglog:"테스트 단계: ID,PW 틀릴시 확인 메세지",sourceurl:""})
+d2.set_img(1,{imgtitle:"테스트케이스 로그인 완료",imgurl:"https://drive.google.com/file/d/1ZTcRe1OO3iTt6ad6w5-o1PozNIu_2y6H/view?usp=drive_link",imglog:"테스트 단계: ID,PW 맞을시 로그인 완료",sourceurl:""})
+
+
 d2.set_content("공통모듈구현 작동페이지, 로그인화면, 소스코드 ")
 d2.set_img(2,{imgtitle:"단위테스트",imgurl:"https://drive.google.com/file/d/18oGaErhQAwV-9hs_NZcUsikEdhLw-5uX/view?usp=drive_link",imglog:"단위테스트 로그인,로그아웃 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})//서브 타이틀
 d2.set_img(2,{imgtitle:"단위테스트 로그인기능 구현",imgurl:"https://drive.google.com/file/d/1cswKof3EizBHKI99fxG9OQIHAZXYH-ky/view?usp=drive_link",imglog:"단위테스트 로그인 구현",sourceurl:""})
@@ -69,22 +77,28 @@ d3.set_img(0,{imgtitle:"회원가입화면",imgurl:"https://drive.google.com/fil
 d3.set_img(0,{imgtitle:"회원가입코드",imgurl:"https://drive.google.com/file/d/1ae0H4xOrLhkjtsUHZDR0iVS9d05yJaKK/view?usp=drive_link",imglog:"회원가입 코드",sourceurl:"https://docs.google.com/document/d/1I2QVcbcgC0IsZF6x76i5fi2SuyCDQideGVI7aak2uz0/edit?usp=drive_link"})
 d3.set_img(0,{imgtitle:"회원가입 제약조건",imgurl:"https://drive.google.com/file/d/10n3rFkJxwrXO5ly0-hEOwXA_hhU2Mqrl/view?usp=drive_link",imglog:"회원가입을 위한 제약조건",sourceurl:"https://docs.google.com/document/d/1I2QVcbcgC0IsZF6x76i5fi2SuyCDQideGVI7aak2uz0/edit?usp=drive_link"})
 d3.set_img(0,{imgtitle:"회원가입성공 화면",imgurl:"https://drive.google.com/file/d/1lWUg0VjMkS5CNqxHQEBtoa8cTNuzJl9-/view?usp=drive_link",imglog:"회원가입 성공화면",sourceurl:""})
+
 d3.set_content("회원가입구현, 회원로그인,회원리스트, 리스트 출력결과")
 d3.set_img(1,{imgtitle:"회원로그인 구현",imgurl:"https://drive.google.com/file/d/1Wm9i_aP7FSMaKiZJdGBigDUGWXT0Sz0K/view?usp=drive_link",imglog:"회원로그인 결과",sourceurl:"https://docs.google.com/document/d/1gXDMr1TNCXfewAxkMJ6Rr94EBqgHl9hIMVNEczc5vi4/edit?usp=drive_link"})
 d3.set_img(1,{imgtitle:"회원로그인 DB접근",imgurl:"https://drive.google.com/file/d/1tOPg7nguOPgu1q_mU3Lth6NCKxJktcIW/view?usp=drive_link",imglog:"회원로그인 회원 DB 접근 확인",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})
-d3.set_img(1,{imgtitle:"회원로그인 세션 인가",imgurl:"https://drive.google.com/file/d/1V90mt67-KoOOstJvGmUIOsZ1C87GG02e/view?usp=drive_link",imglog:"회원로그이 세션 인가",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})
+d3.set_img(1,{imgtitle:"회원로그인 세션 인가",imgurl:"https://drive.google.com/file/d/1V90mt67-KoOOstJvGmUIOsZ1C87GG02e/view?usp=drive_link",imglog:"회원로그인 세션 인가",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})
+d3.set_img(1,{imgtitle:"회원로그인 코드",imgurl:"https://drive.google.com/file/d/1_vlDm_oN8Nclv2v1Gt65fgjMlpSm3uP6/view?usp=drive_link",imglog:"회원로그인 코드",sourceurl:""})
 
+d3.set_content("회원가입구현 후 회원 로그아웃")
 d3.set_img(2,{imgtitle:"회원로그아웃 구현",imgurl:"https://drive.google.com/file/d/12HUZYqq7kIxOtgdHdCAyRwvz6HyQ5vJ6/view?usp=drive_link",imglog:"회원로그아웃 결과",sourceurl:"https://docs.google.com/document/d/135SXENHAnT-JDPIV6GT75hmTomqwvlLR_VOh2QcLgNU/edit?usp=drive_link"})
-d3.set_content("회원가입구현, 회원로그인,회원리스트, 리스트 출력결과")
-d3.set_img(2,{imgtitle:"회원로스트 출력 ",imgurl:"https://drive.google.com/file/d/1ZZXVpD_lUz3X0ICzSf36LebHnEqAe_9t/view?usp=drive_link",imglog:"회원리스트 출력 결과",sourceurl:"https://docs.google.com/document/d/13LttorG997Fpqxqs6_axsvBYtiwFsECHvpQ2d8AzZCQ/edit?usp=drive_link"})
-d3.set_img(2,{imgtitle:"회원로스트 요구 메세지",imgurl:"https://drive.google.com/file/d/1T2RWJ8byisXmndciXdpy0PEb9xCnyKXt/view?usp=drive_link",imglog:"회원리스트 요구메세지",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})
-d3.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
+d3.set_img(2,{imgtitle:"회원로그아웃 코드",imgurl:"https://drive.google.com/file/d/15q9o5rQc4xm2iQ2Gj0U_D7kq0qg_FgGn/view?usp=drive_link",imglog:"회원로그아웃 결과",sourceurl:""})
+
+d3.set_content("회원리스트, 리스트 출력결과")
+d3.set_img(3,{imgtitle:"회원리스트 출력 ",imgurl:"https://drive.google.com/file/d/1ZZXVpD_lUz3X0ICzSf36LebHnEqAe_9t/view?usp=drive_link",imglog:"회원리스트 출력 결과",sourceurl:"https://docs.google.com/document/d/13LttorG997Fpqxqs6_axsvBYtiwFsECHvpQ2d8AzZCQ/edit?usp=drive_link"})
+d3.set_img(3,{imgtitle:"회원리스트 요구 메세지",imgurl:"https://drive.google.com/file/d/1T2RWJ8byisXmndciXdpy0PEb9xCnyKXt/view?usp=drive_link",imglog:"회원리스트 요구메세지",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})
+d3.set_img(3,{imgtitle:"회원리스트 코드",imgurl:"https://drive.google.com/file/d/18MRYLPeLbdV3II1GQONjoMmz8pISWwzI/view?usp=drive_link",imglog:"회원리스트 요구메세지",sourceurl:""})
+d3.set_fill("사용자의 회원가입,로그인,로그아웃,회원리스트 출력 구현")//사용자 에필로그
 data_sets.push(d3)
 
 // menu4 =============================================================
 let d4 = new DataSet("배치프로그램구현")//메인타이틀
 d4.set_content("배치스케줄구현")//서브타이틀
-d4.set_img(0,{imgtitle:"배치스케줄구현",imgurl:"https://drive.google.com/file/d/1WDLolshmNat6H03lHND4Pdh8Ia4boj7v/view?usp=drive_link",imglog:"배치스케줄 실행 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/resources/static/signup.html"})
-d4.set_img(0,{imgtitle:"배치스케줄구현",imgurl:"https://drive.google.com/file/d/185FC6_RCbTR7Ne4oulbE28GFFmOGN70g/view?usp=drive_link",imglog:"배치스케줄 실행 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/job/BatchSchedule.java"})
-d4.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
+d4.set_img(0,{imgtitle:"배치스케줄구현",imgurl:"https://drive.google.com/file/d/1WDLolshmNat6H03lHND4Pdh8Ia4boj7v/view?usp=drive_link",imglog:"배치스케줄 실행 코드",sourceurl:"https://docs.google.com/document/d/1d1JqIsBTi1cYQ7jbMtxohihC-nw1jelcJ2Mrw-j46gY/edit?usp=drive_link"})
+d4.set_img(0,{imgtitle:"배치스케줄구현 확인",imgurl:"https://drive.google.com/file/d/185FC6_RCbTR7Ne4oulbE28GFFmOGN70g/view?usp=drive_link",imglog:"배치스케줄 실행 결과",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/job/BatchSchedule.java"})
+d4.set_fill("배치스케줄 구성 및 테스트 ")//사용자 에필로그
 data_sets.push(d4)
