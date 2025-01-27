@@ -54,7 +54,7 @@ d2.set_img(0,{imgtitle:"공통모듈구현 작동 페이지",imgurl:"https://dri
 d2.set_img(0,{imgtitle:"공통모듈구현 로그인 화면",imgurl:"https://drive.google.com/file/d/1R9CbpvCjT-Z4O85doOLP-IF5P72kCLSE/view?usp=drive_link",imglog:"공통모듈구현으로 로그인 시 출력되는 결과",sourceurl:""})
 d2.set_img(0,{imgtitle:"공통모듈구현 소스코드",imgurl:"https://drive.google.com/file/d/1AqLqry307aDGnY0ZHfyVjI5_lY6LabJ6/view?usp=drive_link",imglog:"공통모듈구현 소스코드",sourceurl:""})
 
-d2.set_content("공통모듈구현 작동페이지, 로그인화면, 소스코드 ")
+d2.set_content("공통모듈구현 테스트케이스, 성공/실패/결과 ")
 d2.set_img(1,{imgtitle:"테스트케이스",imgurl:"https://drive.google.com/file/d/1s1Qt07JyP-tytNNwhA-qPHLn7y40fm4X/view?usp=drive_link",imglog:"테스트 단계, 경계 입력값, 예상 출력값, 성공/실패 여부",sourceurl:"https://docs.google.com/document/d/1z-mgVYYfSK3pjqz4jIY1Ihz3K1e_mtxYplEnszlPq6s/edit?usp=drive_link"})// //서브 타이틀
 d2.set_img(1,{imgtitle:"테스트케이스 아이디 점검",imgurl:"https://drive.google.com/file/d/1CqtNO2l4-Dafv-T7ELQgvpqTmwsw4jOE/view?usp=drive_link",imglog:"테스트 단계: 아이디 3자리수 입력시 실패 ",sourceurl:""})
 d2.set_img(1,{imgtitle:"테스트케이스 비밀번호 점검",imgurl:"https://drive.google.com/file/d/1uCWMx-uw_yxNTgDsUhIBRZ-BWJryKIB0/view?usp=drive_link",imglog:"테스트 단계: 비밀번호 2자리수 입력시 실패",sourceurl:""})
@@ -63,10 +63,12 @@ d2.set_img(1,{imgtitle:"테스트케이스 로그인 점검",imgurl:"https://dri
 d2.set_img(1,{imgtitle:"테스트케이스 로그인 완료",imgurl:"https://drive.google.com/file/d/1ZTcRe1OO3iTt6ad6w5-o1PozNIu_2y6H/view?usp=drive_link",imglog:"테스트 단계: ID,PW 맞을시 로그인 완료",sourceurl:""})
 
 
-d2.set_content("공통모듈구현 작동페이지, 로그인화면, 소스코드 ")
-d2.set_img(2,{imgtitle:"단위테스트",imgurl:"https://drive.google.com/file/d/18oGaErhQAwV-9hs_NZcUsikEdhLw-5uX/view?usp=drive_link",imglog:"단위테스트 로그인,로그아웃 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})//서브 타이틀
-d2.set_img(2,{imgtitle:"단위테스트 로그인기능 구현",imgurl:"https://drive.google.com/file/d/1cswKof3EizBHKI99fxG9OQIHAZXYH-ky/view?usp=drive_link",imglog:"단위테스트 로그인 구현",sourceurl:""})
-d2.set_img(2,{imgtitle:"단위테스트 로그아웃 기능 구현",imgurl:"https://drive.google.com/file/d/1lJzq6DRWE9PGL_QDRERcRFE1n_XLLSkU/view?usp=drive_link",imglog:"단위테스트 로그아웃 구현",sourceurl:""})
+d2.set_content("공통모듈구현 단위테스트 junit ")
+d2.set_img(2,{imgtitle:"단위테스트",imgurl:"https://drive.google.com/file/d/1R1E0vzFpQCmCBb8JpcZqk6bmNcv72pYh/view?usp=drive_link",imglog:"단위테스트 코드",sourceurl:"https://docs.google.com/document/d/1xjW2afSCnPfZbgLHJdqgygicakKHQtHv3eg5c7X8BUc/edit?usp=drive_link"})//서브 타이틀
+d2.set_img(2,{imgtitle:"단위테스트 junit 테스트",imgurl:"https://drive.google.com/file/d/13KFGd5hOzAn2NJ7_cTobL_rn0LFy4p1R/view?usp=drive_link",imglog:"단위테스트 junit 테스트",sourceurl:""})
+d2.set_img(2,{imgtitle:"단위테스트 junit 성공 스냅샷",imgurl:"https://drive.google.com/file/d/1VmID1Htu9WmJpDVn_3rYUYf9zPtMz0ZZ/view?usp=drive_link",imglog:"단위테스트 테스트 성공 스냅샷",sourceurl:""})
+d2.set_img(2,{imgtitle:"단위테스트 junit ID 오류 코드",imgurl:"https://drive.google.com/file/d/1QozW2jbSFretwPBiohf_Fe8GyLxV0dmV/view?usp=drive_link",imglog:"단위테스트 wrongID aaaa를 출력시 rightID와 같다",sourceurl:""})
+d2.set_img(2,{imgtitle:"단위테스트 junit ID 오류 코드 결과 스냅샷",imgurl:"https://drive.google.com/file/d/1ismg3T1VfU4StmqXQSs2-1h8mYXHhR31/view?usp=drive_link",imglog:"단위테스트 오류코드 실행 결과",sourceurl:""})
 d2.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
 data_sets.push(d2)
 
