@@ -86,12 +86,12 @@ d3.set_img(1,{imgtitle:"회원로그인 코드",imgurl:"https://drive.google.com
 
 d3.set_content("회원가입구현 후 회원 로그아웃")
 d3.set_img(2,{imgtitle:"회원로그아웃 구현",imgurl:"https://drive.google.com/file/d/12HUZYqq7kIxOtgdHdCAyRwvz6HyQ5vJ6/view?usp=drive_link",imglog:"회원로그아웃 결과",sourceurl:"https://docs.google.com/document/d/135SXENHAnT-JDPIV6GT75hmTomqwvlLR_VOh2QcLgNU/edit?usp=drive_link"})
-d3.set_img(2,{imgtitle:"회원로그아웃 코드",imgurl:"https://drive.google.com/file/d/15q9o5rQc4xm2iQ2Gj0U_D7kq0qg_FgGn/view?usp=drive_link",imglog:"회원로그아웃 결과",sourceurl:""})
+d3.set_img(2,{imgtitle:"회원로그아웃 코드",imgurl:"https://drive.google.com/file/d/15q9o5rQc4xm2iQ2Gj0U_D7kq0qg_FgGn/view?usp=drive_link",imglog:"회원로그아웃 코드",sourceurl:""})
 
 d3.set_content("회원리스트, 리스트 출력결과")
 d3.set_img(3,{imgtitle:"회원리스트 출력 ",imgurl:"https://drive.google.com/file/d/1ZZXVpD_lUz3X0ICzSf36LebHnEqAe_9t/view?usp=drive_link",imglog:"회원리스트 출력 결과",sourceurl:"https://docs.google.com/document/d/13LttorG997Fpqxqs6_axsvBYtiwFsECHvpQ2d8AzZCQ/edit?usp=drive_link"})
 d3.set_img(3,{imgtitle:"회원리스트 요구 메세지",imgurl:"https://drive.google.com/file/d/1T2RWJ8byisXmndciXdpy0PEb9xCnyKXt/view?usp=drive_link",imglog:"회원리스트 요구메세지",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})
-d3.set_img(3,{imgtitle:"회원리스트 코드",imgurl:"https://drive.google.com/file/d/18MRYLPeLbdV3II1GQONjoMmz8pISWwzI/view?usp=drive_link",imglog:"회원리스트 요구메세지",sourceurl:""})
+d3.set_img(3,{imgtitle:"회원리스트 코드",imgurl:"https://drive.google.com/file/d/18MRYLPeLbdV3II1GQONjoMmz8pISWwzI/view?usp=drive_link",imglog:"회원리스트 코드",sourceurl:""})
 d3.set_fill("사용자의 회원가입,로그인,로그아웃,회원리스트 출력 구현")//사용자 에필로그
 data_sets.push(d3)
 
