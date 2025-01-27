@@ -56,7 +56,7 @@ d2.set_img(0,{imgtitle:"공통모듈구현 소스코드",imgurl:"https://drive.g
 d2.set_content("공통모듈구현 작동페이지, 로그인화면, 소스코드 ")
 d2.set_img(1,{imgtitle:"테스트케이스",imgurl:"https://drive.google.com/file/d/1s1Qt07JyP-tytNNwhA-qPHLn7y40fm4X/view?usp=drive_link",imglog:"테스트 단계, 경계 입력값, 예상 출력값, 성공/실패 여부",sourceurl:"https://docs.google.com/document/d/1z-mgVYYfSK3pjqz4jIY1Ihz3K1e_mtxYplEnszlPq6s/edit?usp=drive_link"})//서브 타이틀
 d2.set_content("공통모듈구현 작동페이지, 로그인화면, 소스코드 ")
-d2.set_img(2,{imgtitle:"단위테스트",imgurl:"https://drive.google.com/file/d/18oGaErhQAwV-9hs_NZcUsikEdhLw-5uX/view?usp=drive_link",imglog:"단위테스트 로그인,로그아웃 코드",sourceurl:"https://docs.google.com/document/d/1z-mgVYYfSK3pjqz4jIY1Ihz3K1e_mtxYplEnszlPq6s/edit?usp=drive_link"})//서브 타이틀
+d2.set_img(2,{imgtitle:"단위테스트",imgurl:"https://drive.google.com/file/d/18oGaErhQAwV-9hs_NZcUsikEdhLw-5uX/view?usp=drive_link",imglog:"단위테스트 로그인,로그아웃 코드",sourceurl:"https://github.com/jihoonab/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})//서브 타이틀
 d2.set_img(2,{imgtitle:"단위테스트 로그인기능 구현",imgurl:"https://drive.google.com/file/d/1cswKof3EizBHKI99fxG9OQIHAZXYH-ky/view?usp=drive_link",imglog:"단위테스트 로그인 구현",sourceurl:""})
 d2.set_img(2,{imgtitle:"단위테스트 로그아웃 기능 구현",imgurl:"https://drive.google.com/file/d/1lJzq6DRWE9PGL_QDRERcRFE1n_XLLSkU/view?usp=drive_link",imglog:"단위테스트 로그아웃 구현",sourceurl:""})
 d2.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
